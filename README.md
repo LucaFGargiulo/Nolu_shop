@@ -2,6 +2,14 @@
 
 > E-commerce full stack orientado a una experiencia de compra rápida, segura y responsive.
 
+
+## 🔗 Enlaces Importantes
+
+* **Tablero de Gestión (GitHub Projects):** [Nolu Shop - Backlog](https://github.com/users/LucaFGargiulo/projects/3)
+* **Diseño UI/UX (Figma):** [Wireframes y Diseño](https://www.figma.com/proto/yInZFifWaTnbPQvgrtoR4p/Nolu-Shop---Wireframes-MVP?node-id=0-1&t=Uosuo3q67Er4kjuV-1)
+* **Documentación Técnica:** [Especificaciones del MVP](https://docs.google.com/document/d/1WJI8b6rzOdaB_8O-w0YyXhBzPSaS1P3Mwe7fzmKM94k/edit?tab=t.0)
+* **Despliegue en Producción (Vercel):** [Nolu Shop Live](#)
+
 ## Acerca del proyecto
 
 **Nolu Shop** es un proyecto de e-commerce. Su objetivo es construir una tienda online moderna, escalable y segura.
